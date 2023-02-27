@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/earthquakes/static/css/main.a0d51f17.css",
-    "main.js": "/earthquakes/static/js/main.9664ce0b.js",
+    "main.css": "/earthquakes/static/css/main.e4bf78af.css",
+    "main.js": "/earthquakes/static/js/main.fe7549cb.js",
     "static/js/787.69dfce95.chunk.js": "/earthquakes/static/js/787.69dfce95.chunk.js",
     "index.html": "/earthquakes/index.html",
     "static/media/circle.svg": "/earthquakes/static/media/circle.87bf9578e5cc90c62fd92f2096747983.svg",
-    "main.a0d51f17.css.map": "/earthquakes/static/css/main.a0d51f17.css.map",
-    "main.9664ce0b.js.map": "/earthquakes/static/js/main.9664ce0b.js.map",
+    "main.e4bf78af.css.map": "/earthquakes/static/css/main.e4bf78af.css.map",
+    "main.fe7549cb.js.map": "/earthquakes/static/js/main.fe7549cb.js.map",
     "787.69dfce95.chunk.js.map": "/earthquakes/static/js/787.69dfce95.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0d51f17.css",
-    "static/js/main.9664ce0b.js"
+    "static/css/main.e4bf78af.css",
+    "static/js/main.fe7549cb.js"
   ]
 }
